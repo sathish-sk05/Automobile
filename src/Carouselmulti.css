@@ -1,0 +1,41 @@
+.borderShadow{  
+    border-radius: 8px;
+    background: linear-gradient(145deg, #cacaca, #f0f0f0);
+    text-align: center;
+    font-weight: 630;
+    /* border-radius: 13px; */
+    background: #fff !important;
+    min-height: 15px !important;
+    padding: 7px !important;
+    /* float: left !important;
+    width: 100%!important; */
+    transition: .5s !important;
+    border: #ccc solid 1px !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    flex-direction: column !important;
+    color: black;
+   
+      
+}
+.slider-button{
+       background-color: white;
+       color: grey;
+       font-weight: 300;
+       font-size: large;
+}
+
+.borderShadow img {
+    /* height: 60% !important; */
+    width: 87% !important;
+    height: 155px !important;
+    object-fit: contain !important;
+    border-radius: 17px !important;
+
+}
+.borderShadow :hover{
+    background-color: white;
+    transform:scale(1.1)
+    
+}

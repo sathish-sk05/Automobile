@@ -1,0 +1,39 @@
+
+.logo {
+    height: 40px;
+    margin-bottom: 22px;
+
+}
+.space{
+     margin-right: 10px;
+     color: black;
+    
+}
+
+
+.container-header{
+     display: flex;
+       
+     
+}
+.container-header svg {
+    font-size: 20px;
+}
+.container-header span{
+       margin-right: 8px ;
+}
+ .icon-holder{
+       width: 90px;
+       color: white;
+}
+#category-text{
+     font-weight: 700;
+     font-size: xx-large;
+     margin-top: 20px;
+}
+#slider {
+    color: rgb(132, 142, 153);
+    font-weight: 550;
+    text-align: center;
+    margin-bottom: 30px;   
+}

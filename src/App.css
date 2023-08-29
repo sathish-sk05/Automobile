@@ -1,0 +1,26 @@
+
+
+.icon{
+    position: sticky;
+    top: 0;
+     display: flex;
+     color: white;
+     justify-content: space-between;
+    
+
+}
+
+.logo-colect{
+    height: 40px;
+    margin-top: 15px;
+    display: flex;
+
+}
+.icon-holder svg {
+        
+       font-size: 20px;
+}
+.icon-holder span {
+        
+    margin-right: 10px;
+}

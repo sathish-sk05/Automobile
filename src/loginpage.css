@@ -1,0 +1,92 @@
+body{
+  background: url(https://s19536.pcdn.co/wp-content/uploads/2021/05/Automotive-Aftermarket.jpg);
+  /* background: url(https://wallup.net/wp-content/uploads/2016/07/21/408376-abstract-car-sports_car-parts-mechanics-Ferrari-Exploded-view_diagram-Composite.jpg); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  height: 580px;
+ }
+
+
+
+
+
+.loginn-box {
+    width: 320px;
+    height: 420px;
+    background: rgba(0,0,0,0.5);
+    border-radius: 6px;
+    color:#fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+    margin-top: 50px;
+   
+   
+}
+.ancimart{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: -50px;
+    left: calc(26% - 26px);
+
+}
+h1 {
+   margin: 0;
+   padding: 0 0 20px;
+   text-align: center;
+   font-size: 35px;
+}
+.loginn-box p{
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+}
+.loginn-box input {
+  width: 100%;
+  margin-bottom:20px;
+}
+.loginn-box input[type="email"], input[type="password"]
+
+{
+  border: none;
+  border-bottom: 1px solid #fff;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  color: #fff;
+  font-size: 15px;
+}
+
+button
+{
+  border: none;
+  outline: none;
+  height: 40px;
+  width: 100%;
+  background:darkslategrey;
+  color: #fff;
+  border-radius: 5px;
+}
+button:hover
+{
+  cursor:pointer;
+  background: #39dc79;
+  color:#000;
+}
+.loginn-box a{
+   text-decoration: none;
+   font-size: 14px;
+   color: #fff;
+}
+.loginn-box a:hover{
+  color: #39dc79;
+}
+
+#alreadyuser{
+    margin-top: 20px;
+}
